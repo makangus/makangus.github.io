@@ -1,0 +1,53 @@
+@font-face {
+	font-family: 'fontello';
+	src: url("../font/fontello.eot?11995952");
+	src: url("../font/fontello.eot?11995952#iefix") format('embedded-opentype'), url("../font/fontello.woff?11995952") format('woff'), url("../font/fontello.ttf?11995952") format('truetype'), url("../font/fontello.svg?11995952#fontello") format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 14px;
+  font-size: 1.4rem;
+  font-family: 'Open Sans', Verdana, Helvetica, sans-serif; 
+  color: #fff;
+  background: #1e1e1e;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Bree Serif', Georgia, serif;
+}
+
+a {
+  color: #fff;
+}
+ 
+.content {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  height: 180px;
+  width: 320px;
+  margin-top: -90px;
+  margin-left: -160px;
+}
+
+.social-links {
+  margin: 30px 0;
+  margin: 3.0rem 0;
+}
+
+.social-icon {
+  margin: 0 10px;
+  margin: 0 1rem;
+  color: #fff;
+  font-size: 28px;
+  font-size: 2.8rem;
+  font-family: 'fontello';
+  text-decoration: none;
+}
